@@ -118,7 +118,8 @@ Our -0.11 score wasn’t a failure, it was a proof of internal consistency in ch
 
 👨‍💻 Authors
 
-Devkanth Ravi — Creator & Lead Engineer of Wukong Pipeline
+MonarchofCoding — Creator & Lead Engineer of Wukong Pipeline
+
 ChatGPT (GPT-5) — Research co-pilot and debugging partner
 
 💬 Final Thoughts
