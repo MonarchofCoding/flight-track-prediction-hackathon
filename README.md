@@ -1,3 +1,4 @@
+https://www.kaggle.com/code/devkanthravi/built-a-high-stability-motion-forecasting-pipeline
 #✈️ Wukong: Flight Track Prediction (MachineHack Hackathon)
 
 “We didn’t predict flights — we predicted motion in chaos.”
